@@ -17,3 +17,14 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.card {
+  padding: 2em;
+  border: 1px solid red;
+  margin-top: 2em;
+}
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
